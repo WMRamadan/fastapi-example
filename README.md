@@ -15,3 +15,7 @@ Example of Fastapi Python framework with in memory db
 - source venv/bin/activate
 - pip install -r requirements.txt
 - uvicorn main:app --reload
+
+## API Documentation
+- http://127.0.0.1:8000/docs
+- http://127.0.0.1:8000/redoc
